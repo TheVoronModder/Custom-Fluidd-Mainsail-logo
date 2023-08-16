@@ -1,6 +1,9 @@
 # Custom-Fluidd-Mainsail-logo
 How to create your own custom logo for Fluidd and Mainsail
 
+At the top right of this page you will see a GREEN box (code) click it and select download.
+
+
 **Things you are going to need / download**
 
 **Inkscape**
